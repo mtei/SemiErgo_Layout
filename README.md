@@ -16,3 +16,11 @@ A proposal of ergonomics key layout  for standard size keyboard
 ![Symmetric](Description/SemiErgo-symmetric.png)
 ### 2-3. Rebalance
 ![Rebalance](Description/SemiErgo-rebalance.png)
+
+## 3. Mapping example
+### 3-1. common mapping
+![common mapping](example_mapping/SemiErgo_example_common.png)
+### 3-2. us mapping
+![us mapping](example_mapping/SemiErgo_example_us.png)
+### 3-3. us mapping
+![japanese mapping](example_mapping/SemiErgo_example_japanese.png)
