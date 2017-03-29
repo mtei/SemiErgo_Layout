@@ -1,5 +1,5 @@
 # SemiErgo Layout
-A proposal of ergonomics key layout  for standard size keyboard
+A proposal of ergonomic key layout for standard size keyboard
 
 ## 1. Specification
 ### 1-1. Basic physical layout
