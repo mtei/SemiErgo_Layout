@@ -17,26 +17,27 @@ A proposal of ergonomic key layout for standard size keyboard
 ### 2-3. Rebalance
 ![Rebalance](Description/SemiErgo-rebalance.png)
 
-## 3. Mapping example
-### 3-1. Common mapping
+*****
+## Appendix A. Mapping example
+### A-1. Common mapping
 ![common mapping](example_mapping/SemiErgo_example_common.png)
-### 3-2. US mapping
+### A-2. US mapping
 ![us mapping](example_mapping/SemiErgo_example_us.png)
-### 3-3. Japanese mapping
+### A-3. Japanese mapping
 ![japanese mapping](example_mapping/SemiErgo_example_japanese.png)
 
 *****
-## 4. Draft Mappings for Windows
-### 4-1. Draft of Windows 104 US key set mapping
+## Appendix B. Draft Mappings for Windows
+### B-1. Draft of Windows 104 US key set mapping
 ![](draft_for_real_systems/windows/SemiErgo_draft_window_us.png)
-### 4-2. Draft of Windows 109 Japanese key set mapping
+### B-2. Draft of Windows 109 Japanese key set mapping
 ![](draft_for_real_systems/windows/SemiErgo_draft_window_japanese.png)
 
 *****
-## 5. Draft Mappings for Mac
-### 5-1. Draft of MacBook/iMac US key set mapping
+## Appendix C. Draft Mappings for Mac
+### C-1. Draft of MacBook/iMac US key set mapping
 ![](draft_for_real_systems/mac/SemiErgo_draft_mac_us.png)
-### 5-2. Draft of MacBook/iMac US-Dvorak key set mapping
+### C-2. Draft of MacBook/iMac US-Dvorak key set mapping
 ![](draft_for_real_systems/mac/SemiErgo_draft_mac_us_dvorak.png)
-### 5-3. Draft of MacBook/iMac Japanese key set mapping
+### C-3. Draft of MacBook/iMac Japanese key set mapping
 ![](draft_for_real_systems/mac/SemiErgo_draft_mac_japanese.png)
